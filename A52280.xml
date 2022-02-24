@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Apologia por la noble nacion de los Iudios y hijos de Israel escrita en Ingles por Eduardo Nicholas.</title>
+            <title>Apology for the honorable nation of the Jews and all the sons of Israel. Spanish</title>
+            <author>Nicholas, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52280</idno>
+            <idno type="STC">Wing N1080</idno>
+            <idno type="STC">ESTC R9842</idno>
+            <idno type="EEBO-CITATION">12824910</idno>
+            <idno type="OCLC">ocm 12824910</idno>
+            <idno type="VID">94249</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52280)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94249)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 76:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Apologia por la noble nacion de los Iudios y hijos de Israel escrita en Ingles por Eduardo Nicholas.</title>
+                  <title>Apology for the honorable nation of the Jews and all the sons of Israel. Spanish</title>
+                  <author>Nicholas, Edward.</author>
+                  <author>Manasseh ben Israel, 1604-1657.</author>
+               </titleStmt>
+               <extent>[2], 8 [i.e. 15] p.   </extent>
+               <publicationStmt>
+                  <publisher>E impresa en casa de Juan Field,</publisher>
+                  <pubPlace>En Londres :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of: Apology for the honorable nation of the Jews and all the sons of Israel.</note>
+                  <note>Nothing is known about Edward Nicholas, who was once thought to be identical with Sir Edward Nicholas (1593-1669). Some authorities consider the name a pseudonym, disguising, perhaps, Manasseh ben Israel. Cf. NUC pre-1956.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="spa">spa</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jews --  Great Britain --  Social conditions.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="spa">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94249:1" rendition="simple:additions"/>
+            <pb facs="tcp:94249:1"/>
+            <p>APOLOGIA Por La noble nacion de los IVDIOS Y hijos de ISRAEL.</p>
+            <p>Eſcrita en Ingles Por EDUARDO NICHOLAS.</p>
+            <p>E impreſa en caſa de Juan Field, en Londres, An<g ref="char:cmbAbbrStroke">̄</g>o MDCxlix.</p>
+         </div>
+         <div type="epigraph">
+            <pb facs="tcp:94249:2"/>
+            <q>
+               <p>
+                  <hi>POr que apiadarà .A. a Iacob, y eſcojerà mas en Iſrael, y hazerloa repoſar ſobre ſu tierra, y ſera acompanado el pelegrino ſobre ellos, y ſeran ajuntados, ſobre caſa de Iacob, y tomarlos a<g ref="char:cmbAbbrStroke">̄</g> pueblos, y traerlos an a ſu lugar, y heredar ſean dellos caſa de Iſrael, ſobre tierra de .A. por ſtervos, y por eſclavas: y ſeran capti<g ref="char:EOLhyphen"/>vantes a ſus captivantes, y podeſtaran en ſus apretan<g ref="char:EOLhyphen"/>tes.</hi>
+               </p>
+               <bibl>Iſahi. 14.1.</bibl>
+            </q>
+            <q>
+               <p>
+                  <hi>Bien aventurado tu Iſrael, quien como tu, pueblo ſal<g ref="char:EOLhyphen"/>vo en .A.</hi>
+               </p>
+               <bibl>Deut. 33.39.</bibl>
+            </q>
+            <q>
+               <p>
+                  <hi>Guay, que grande el dia eſſe, que no como el, y ora de anguſtia ella a Iacob, y della ſera ſaluo.</hi>
+               </p>
+               <bibl>Ier. 30.7.</bibl>
+            </q>
+            <q>
+               <p>
+                  <hi>Asſi dixo .A. voz fue oyda enaltura, oyna, lloro de amarguras, Rahel lloran ſobre ſus hijos, no quiere por conortarſe ſobre ſus hijos, por que no el; Asſi dixo .A., veda tu boz de lloro, y tus ojos de lagrima. &amp;c.</hi>
+               </p>
+               <bibl>Ier. 31.14.15.16.17.</bibl>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:94249:2"/>
+            <p>QUe nueſtra nacion de Ingalatierra, aya ſofri<g ref="char:EOLhyphen"/>do muchos trabajos y afliciones, y que aun al prezente eſtamos ſomergidos entre du<g ref="char:EOLhyphen"/>das, turbacion, y miedos, la lamentable experien<g ref="char:EOLhyphen"/>cia lo mueſtra. Por lo qual los que tienen autoridad en eſte Reyno, y todos nos otros devemos atribuir<g ref="char:EOLhyphen"/>lo aque los graves pecados de nueſtra nacion, eſtan llamando por la vengença, que con juſta cauſa la podemos eſperar, ſino buſcamos a Dios con el de<g ref="char:EOLhyphen"/>vido arrepe<g ref="char:cmbAbbrStroke">̄</g>dimiento, y ſatisfacion a los oprimidos.</p>
+            <p>Querer manifeſtar con palabras la multitud de los pecados en que eſtamos rebueltos, y compren<g ref="char:EOLhyphen"/>didos, fuera dar numero a quien no lo tiene, y en cierto modo hazer poco caudal de aquello que ta<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>to importa. Y aſſi por ſu immenſidad, me parece mejor entregallos al ſilenſio que intentar demani<g ref="char:EOLhyphen"/>feſtallos en pocas palabras; reſpecto de ellos ſeren tan odioſos a Dios, que pareceria los queriamos ju<g ref="char:EOLhyphen"/>ſtificar; Por lo <abbr>q</abbr> ſolamente tratarè de dos, y es el primero, la opreſſion que ſe haze al pobre, y el ſe<g ref="char:EOLhyphen"/>gundo, perſeguir à los ſantos de Dios.</p>
+            <p>En quanto al primero, quiero preſumir que las muchas ocupaciones en que al preſente eſtamos metidos, interrompan en parte, buenas y piadoſas intenciones.</p>
+            <p>Las perſecuciones de muchos leales y amigos del Parlamento, an ſido muchas, y devemos con lamentacion pregonallas: y ſobre todo conſiderar como Dios ha paſſado por tantas millares de coſas, que no pueden numerarſe, como vemos de ſus aun que no milagroſos ſuceſſos. Agora cada ſiervo cruel hecha mano ſobre ſu hermano, y por coſas de poco momento, ſe oprimen con infinitos ma<g ref="char:EOLhyphen"/>les, ſuſtentando la uſura que en tiempos ſoſſega<g ref="char:EOLhyphen"/>dos y quietos, fue tan contraria de la ley divina, <abbr>q</abbr> humildemente conſidero, y otros decretos; como no conceder libertad a la guarda del dia ordenado por Dios, y no unirſe con l<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> congregaciones del
+<pb facs="tcp:94249:3"/>
+pueblo de Dios, para limpieza de ſus almas, antes acrecientan ſus trabajos, como mueſtra la expe<g ref="char:EOLunhyphen"/>riencia.</p>
+            <p>Entre todos el mayor pecado, y en que todo con<g ref="char:EOLhyphen"/>ſiſte, es el riguroſo decreto aun oy en ſu fuerça contra la mas noble nacion del mundo, la nacion de los Iudios pueblo eſcogido por Dios, como cla<g ref="char:EOLhyphen"/>ramente conſta delos infinitos milagros, que con ellos tiene uſado, llamandole <hi>ſu eſcogido, ſu primo<g ref="char:EOLhyphen"/>genito, pueblo precioſo ſobre todos los pueblos de la tierra, Reyno de Sacerdotes, y pueblo ſanto:</hi> llamale <hi>ſus ſiervos,</hi> y que no eſtarian de baxo de ſugecion de ninguno, ſolamente ſervirian ſeis an<g ref="char:cmbAbbrStroke">̄</g>os, y enel ſe<g ref="char:EOLhyphen"/>teno ſerian libres, y enel an<g ref="char:cmbAbbrStroke">̄</g>o del Jubileo bolvia ca<g ref="char:EOLhyphen"/>da Varon a ſu heredad. Y eran de tal calidad los bienes y privilegios que gozavan, que ſu influencia alcançava a todos los creyentes, y redundava en ſu felicidad. <hi>Que en ti y en tu ſimiente, ſeran benditas todas las gentes de la tierra.</hi> Gen. 12.3.</p>
+            <p>Y eſta tan grande obligacion le devemos, por la miſericordia de Dios. Deve pues el que tuviere en<g ref="char:EOLhyphen"/>tero juizio, conſiderar con pio animo, los graves males y trabajos, que eſta noble nacion tiene ſufri<g ref="char:EOLhyphen"/>do. Que derramamiento de ſangre no ha avido enellos, tanto en la ciudad de Londres, como en las partes del Norte en eſte Reyno de Inglatierra, y otros muchos lugares? donde fueron bandidos y excluidos, negandole el comercio a otros permiti<g ref="char:EOLhyphen"/>do, como a barbaros, y infieles. Con que la culpa deſte pecado, no tiene deſcarga, a la conſidera<g ref="char:EOLhyphen"/>cion de ſu nobleza y dignidad, y ſeren unidos con Dios miſmo.</p>
+            <p>En auorecellos, altamente provocamos la Mage<g ref="char:EOLhyphen"/>ſtad de Dios; pues devemos honrar a aquellos, a<g ref="char:EOLhyphen"/>quien Dios honra, y tener ſiempre en la memoria eſte pueblo del Sen<g ref="char:cmbAbbrStroke">̄</g>or, por cuyo medio embia al mundo tantas bendiciones, y privilegios incompa<g ref="char:EOLhyphen"/>rables, para que nos otros los conſolaſſemos como
+<pb n="3" facs="tcp:94249:3"/>
+afligidos, y no echar mano de la ocaſion, quando Dios eſtava ayrado contra ellos, para perſegirlos como avemos hecho.</p>
+            <p>Si quiſieremos ta<g ref="char:cmbAbbrStroke">̄</g>bie<g ref="char:cmbAbbrStroke">̄</g> ſeguir la regla politica, la qual ſe endereça a ſolo el provecho, (pro dolor) ven<g ref="char:EOLhyphen"/>drà a ſer tanto en nueſtro favor por tantos caminos, como ciertamente veremos: y al contrario, de mucho dan<g ref="char:cmbAbbrStroke">̄</g>o para eſte Reyno: por que la felici<g ref="char:EOLhyphen"/>dad, de todo el genero humano, eſtà enel pueblo de Dios, cuyas bendiciones de contino ſuſtentan la tierra por ſu cauſa.</p>
+            <p>De aqueſtos es una pequen<g ref="char:cmbAbbrStroke">̄</g>a parte los que avor<g ref="char:EOLhyphen"/>recemos, y abandonamos, lo que doctamente ob<g ref="char:EOLhyphen"/>ſervò un religioſo y famoſo predicador, advertien<g ref="char:EOLhyphen"/>dolo a eſte Parlamento, con el Texto, (Pſal. 105.15. <hi>No toqueys en mis ungidos, y en mis prophe<g ref="char:EOLhyphen"/>tas no emmaleçays.</hi> Diziendo, que el buen o mal tra<g ref="char:EOLhyphen"/>tamiento al pueblo de Dios, es el mayor interes del mu<g ref="char:cmbAbbrStroke">̄</g>do. La obligacio<g ref="char:cmbAbbrStroke">̄</g> pues <abbr>q</abbr> tenemos de poner eſto ſobre nueſtro coraçon, juſguelo el que teme al Se<g ref="char:EOLhyphen"/>n<g ref="char:cmbAbbrStroke">̄</g>or.</p>
+            <p>Demas de los juizios de Dios, que paſſaron por nueſtros padres, co<g ref="char:cmbAbbrStroke">̄</g> guerras ſanguinolentas, y otras calamidades, nos otros al prezente tenemos en y- gualdad nueſtra parte, como mueſtra la experie<g ref="char:cmbAbbrStroke">̄</g>cia Agora ſe allega el dia de la reconpenta, <abbr>q</abbr> devemos creer y temer, quando vemos el caſtigo que Dios promete a los derrocadores y oprimidores de ſu pueblo los Judios. Ier. 30.18. <hi>Por tanto todos tus atemantes ſeran atemados, y todos tus anguſtiadores y ran en captivorio, y ſeran tus rehollantes, por reholla<g ref="char:EOLhyphen"/>dura, y todos los que te oprimieren, dare por prea.</hi> Ieſah. 41.12. <hi>Y todos los Varones erecientes contra ti ſeran como nada, y deperder ſean los varones de tu ba<g ref="char:EOLhyphen"/>raja, buſcarlosas, y no los hallaras, y como nada los va<g ref="char:EOLhyphen"/>rones de tu pelea, que yo .A. tu Dios, travo a tu dere<g ref="char:EOLhyphen"/>cha.</hi> Ibid. 49.25. <hi>Tambien, captiverio de barragan, ſera tomado, y prea de fuerte ſera eſcapada, y tu ba<g ref="char:EOLhyphen"/>raja,</hi>
+               <pb facs="tcp:94249:4"/>
+               <hi>yo barajare, y a tus hijos, yo ſaluare, y hare comer a tus forcantes a ſu carne, y como de moſto de ſu ſangre, ſe emborracharan, y conoſera toda criatura que yo .A. tu ſaluador, y tu Redimidor el fuerte de Jacob.</hi> Lo miſ<g ref="char:EOLhyphen"/>mo ſe confirma en otros lugares. Ier. 25.31. Iſa. 51.22.23. 60.14. 61.3.4.</p>
+            <p>La objeccion que ay contra eſte pueblo de los Judios, es, acomularſele la muerte de chriſto, y <abbr>q</abbr> por eſſo, y por negarla ley de gracia, ſon deſecha<g ref="char:EOLhyphen"/>dos de Dios, y no merecedores de ſu divino favor, y aſſiſtencia: a que reſpondo, que ſupueſto que eſto es acomulado a todo el pueblo, ſe prueva del teſta<g ref="char:EOLhyphen"/>miento, que eſta accion fue hecha ſolo por los vie<g ref="char:EOLhyphen"/>jos, ſacerdotes, y eſcribas, que fulminaron contra el, y no que toda la nacion fueſſe comprendida: porque como dizen, quando lo truxeron a la ciu<g ref="char:EOLhyphen"/>dad, gritaron <hi>Hoſanah;</hi> y ſiendo condenado por Pi<g ref="char:EOLhyphen"/>latos, el principe de los Sacerdotes y ancianos, per<g ref="char:EOLhyphen"/>ſuadieron al pueblo, pidieſſen a Barrabas. De mas deſto, ellos ſo<g ref="char:cmbAbbrStroke">̄</g> tan verſados y ley dos, y tan altamen<g ref="char:EOLhyphen"/>te expertos, que ſaben y pueden dezir bien mas en ſu favor, y fuera demaſiado querer yo tomar ſobre mi, el querer aclarar eſta materia de las objeccio<g ref="char:EOLhyphen"/>nes y dudas; ultra de que requiere tratado largo, el qual ſera mas licito y conviniente haga eſpiri<g ref="char:EOLhyphen"/>to mas levantado, de lo que yo confieſſo tener.</p>
+            <p>El govierno de los Judios de que carecen a tan<g ref="char:EOLhyphen"/>to tiempo, y lo que ſe deve entender en ſu eſparſi<g ref="char:EOLhyphen"/>miento, guardado enel ſecreto de Dios, yo confieſ<g ref="char:EOLhyphen"/>ſo, que la inteligencia deſto, no preſumo de alcan<g ref="char:EOLhyphen"/>ſar: de mas que mi propoſito y intencion, es, ſola<g ref="char:EOLhyphen"/>mente provar, como Dios los tiene aun por ſu pue<g ref="char:EOLhyphen"/>blo; y ſupueſto que deſechados por tiempo, con todo la promeſſa de ſu futura Redencion, no puede faltar.</p>
+            <p>
+               <hi>Que ſi fueras contado de un olivo agreſte por natu<g ref="char:EOLhyphen"/>ral,</hi> Paul. in Ro. 11.24.25.26. y fueres en xerido, co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tra el natural en un olivo domeſtico, quanta venta<g ref="char:EOLhyphen"/>ja
+<pb n="4" facs="tcp:94249:4"/>
+haran aquellos que ſus ramas naturales, fueron en xeridas en ſu miſmo olivo. No quiero hermanos que ſeays ignorantes deſte miſterio, no ſea <abbr>q</abbr> ſeays en vueſtros ojos entendidos, por que ſeguidumbre (en parte) ha venido a Iſrael, haſta que ſe cumpla el hinchimiento de los gentiles; y entonces Iſrael ſera ſalvo, como eſtà eſcrito, de Sion ſaldrà Redemi<g ref="char:EOLhyphen"/>dor, y quitara toda maldad de Jacob, Ieſ. 59. y 27.9. Ier. 31.33 34. Heb. 8. y 10.</p>
+            <p>Sobre todo aqueſto, ofreſco a vueſtra conſidera<g ref="char:EOLhyphen"/>cion, la multitud de las promeſſas hec has por Dios por la boca de ſus Prophetas de ſu redencion a ſus tierras: teniendolos ſiempre por ſu pueblo. Tierra digo ſuya por derecho, por dadiva de Dios miſ<g ref="char:EOLhyphen"/>mo, propiedad, que ningun principe debaxo de los Cielos, ſe puede jactar de ſemejante alteſa. Aſſi miſmo la reſtauracion (ſegun las promeſſas) de la conformidad del ſervicio divino<g ref="char:punc">▪</g> y la reſtauracion de todo a ſu primero eſtado, (Iſa. 11.49. y 60.61.) <abbr>q</abbr> la tierra ſera llena de ciencia de .A., como el agua cubre la mar. Ultra de los verſos dictados haſta el cabo de la prophecia, y otros muchos lugares, y mas Prophetas, ay aun algunos con alguna venta<g ref="char:EOLhyphen"/>ja de los gentiles: como dize Iſa. 56.6. <hi>Y hijos del eſtrano los ajuntados a .A. para ſervirlo y para amar a nombre de .A. para ſer a el por ſiervos, todo guardan Sabat de abiltarlo, y travantes en mi firmamiento, y traerlos he a monte de mi Santidad, y alegrarlos he en caſa de mi oracion, ſus alſaciones y ſus ſacrificios por voluntad ſobre mi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ara: por que mi caſa, caſa de ora<g ref="char:EOLhyphen"/>cion, ſera llamada a todos los pueblos, dicho de .A. Dio apanan empujados de Iſrael.</hi> He aqui para nos los creyentes, como para los Judios. De ſuerte que viſto eſto, y bien ponderando tanto las amenaſas como promeſſas hechas, no ſera demaſiada negli<g ref="char:EOLhyphen"/>gencia (o por mejor dezir locura) en nos otros, no a<g ref="char:EOLhyphen"/>provecharnos, y echar mano de tantas promeſſas y be<g ref="char:cmbAbbrStroke">̄</g>diciones <abbr>q</abbr> por medio de la noble nacio<g ref="char:cmbAbbrStroke">̄</g> de los
+<pb facs="tcp:94249:5"/>
+Judios, podemos alcanſar? y por lo contrario, no ſera contumacia demaciada, el querer aguardar la eſſecucion deſtas plagas? eſto dexo al Juizio de los doctos, y en particular de aquellos aquien eſta materia fuere agradable, y que con buen animo y voluntad, preſirieren ante todo la gloria de Dios, y el bien de ſu pueblo.</p>
+            <p>Importantiſſima y grave es la obligacion que nos ocurre a todos los deſte Reyno de Inglatierra, para que no ſeparemos a eſte pueblo de nos otros, no ſea que vengamos a ſepararnos de la proteccion y favor de Dios, y agora que eſta materia queda mas clara, quanto mas feo ſera, el pecado?</p>
+            <p>No es de animos generoſos y pechos nobles, afli<g ref="char:EOLhyphen"/>gir los aflictos, como nos otros hazemos, continu<g ref="char:EOLhyphen"/>ando con nueſtras leyes, y decretos contra ellos, y triumphando contra aquellos à quien falta la ayu<g ref="char:EOLhyphen"/>da, y eſtan en miſeravel eſtado. Eſte pecado, es mas inorme y feo en aquellos que ſe confieſſan, y tie<g ref="char:EOLhyphen"/>nen por ſiervos de Dios. Y anſi es nueſtra obligaci<g ref="char:EOLhyphen"/>on, hazer todo lo poſſible para favorecerlos, y con<g ref="char:EOLhyphen"/>ſolarlos: y ſi fuere poſſible darle ſatisfacion de la ſa<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>gre innoce<g ref="char:cmbAbbrStroke">̄</g>te ſuya, q<g ref="char:cmbAbbrStroke">̄</g> fue derramada e<g ref="char:cmbAbbrStroke">̄</g> eſte Reyno, uniendolos con nos otros, tanto en amiſtad, como enel comercio.</p>
+            <p>Quiere<g ref="char:cmbAbbrStroke">̄</g> ſuponer algunos <abbr>q</abbr> muchas de las prophe<g ref="char:EOLhyphen"/>cias ſe entie<g ref="char:cmbAbbrStroke">̄</g>de<g ref="char:cmbAbbrStroke">̄</g> a la conſideracio<g ref="char:cmbAbbrStroke">̄</g> de los ſetenta an<g ref="char:cmbAbbrStroke">̄</g>os del captiverio, y ſu redencion de Babilonia, y la vengança <abbr>q</abbr> hizo Dios en los enemigos de ſu pue<g ref="char:EOLhyphen"/>blo en aquel tiempo. Reſpondeſe, que aun que muchas prophecias, dan motivo a ello, con todo los textos alegados y muchos otros, repugnan la objeccion: por que verdaderamente teſtefican la Redencion de toda la caſa de Iſrael; como no ave<g ref="char:EOLhyphen"/>ren buelto los dies tribos haſta agora a ſu tierra, a goſar la felicidad, que por Dios le es prometida en eſte bendito tiempo, como pregona Hoſeah cap. 3. ſeran eſtimados de Dios como la no via del novio,
+<pb n="5" facs="tcp:94249:5"/>
+y nel poſtrero verſo, <hi>deſpues tornaran hijos de Iſrael y buſcaran .A. ſu Dio y a David ſu Rey, y eſpavore<g ref="char:EOLhyphen"/>cer ſean de .A. y de ſu bien en poſtrimeria de los dias.</hi>
+            </p>
+            <p>Y Iehezkel propheta (36.) ſe eſtiende ſobre toda la caſa de Iſrael, como mas claro mueſtra enel v. 10 <hi>Y hare muchiguar ſobre vos hombre,</hi> hablando de las montan<g ref="char:cmbAbbrStroke">̄</g>as de Iſrael, como conſta, de la prophecia, <hi>toda caſa de Iſrael, toda ella, y ſeran pobladas las ciu<g ref="char:EOLhyphen"/>dades:</hi> lo que ſe prueva mas equivalente del capi<g ref="char:EOLhyphen"/>tulo 37. donde claramente ſe haze men<g ref="char:EOLhyphen"/>ſion de todos los tribos de Iſrael, ſiendo mandado al Propheta, tomaſſe un palo y eſcriviſſe ſobre el, <hi>Jeudah, y los hijos de Iſrael ſus conpaneros:</hi> y depues tomaſſe otro, y eſcrivieſſe ſobre el, <hi>Joſeph palo de Ephraim, y toda caſa de Iſrael, ſus conpaneros,</hi> y los llegaſſe uno al otro, y que en un palo ſolo ſe bolve<g ref="char:EOLhyphen"/>rian en ſu mano. Y luego ſigue, <hi>quando dixeren a ti hijos de ſtu pueblo por dezir, ſino denunciaras a nos, q<g ref="char:cmbAbbrStroke">̄</g> eſtos a ti? habla a ellos, asſi dixo .A. Dio, he yo toman a palo de Joſeph que en mano de Ephraim, a tribos de Iſrael ſus conpaneros, y dare a ellos ſobre el, el palo de Jeudah, y hazerloshe, por palo uno, y ſeran, uno en mi mano, &amp;c.</hi>
+            </p>
+            <p>Eſtas palabras, ſon la explicacion de los hueſſos ſecos de que el capitulo haze menſion, con que en parte queda bien declarada mi intenſion, de como ſu Redencion puſſuyendo ſu tierra en eſte mundo, eſtà aun para cumplirſe: por quanto los dies tribos que fueron captivos por Salmanaſſar, no bolvie<g ref="char:EOLhyphen"/>ron haſta agora: lo que forçoſamente ſera enel tiempo que por el Sen<g ref="char:cmbAbbrStroke">̄</g>or eſtà decretado: y aſſi miſ<g ref="char:EOLhyphen"/>mo llevaran ſus oprimidores el grave y conocido pecado en que eſtan comprendidos, por aver abati<g ref="char:EOLhyphen"/>do el pueblo a quien Dios tiene hecho tan precio<g ref="char:EOLhyphen"/>ſas promeſſas. Y ſupueſto que objetan, que eſtos lugares de differentes prophetas, ſe deven enten<g ref="char:EOLhyphen"/>der por un templo triumphante, del nuevo Jeruſa<g ref="char:EOLhyphen"/>laim, deziendo, ſera enel Cielo, depues del dia del
+<pb facs="tcp:94249:6"/>
+Juizio, y que eſtas prophecias y ſu ſinificacion, ſon eſpirituales. Aſſi miſmo que la menſion que ha<g ref="char:EOLhyphen"/>zen, de David ſer ſu Rey, fue una ſen<g ref="char:cmbAbbrStroke">̄</g>al de Chriſto, la reſpueſta es, que no ay duda que Dios nos dio la Eſcritura, para nueſtro govierno y luz, illuſtrando a nueſtras almas, con entendimiento y razon: con <abbr>q</abbr> parece ſeria coſa eſtran<g ref="char:cmbAbbrStroke">̄</g>a, que pudieſſe aver evaſi<g ref="char:EOLhyphen"/>on a lo que tenemos dicho, ſiendo ſu clareza de tal calidad, que no puede aver otra luz que la ſuya, como dize hablando de la Reſtauracion de los Ju<g ref="char:EOLhyphen"/>dios. (Iſa. 65.21.22.) <hi>Y fraguaran caſas y eſtaran y plantaran vin<g ref="char:cmbAbbrStroke">̄</g>as y comeran ſu fruto: no edificaran, y o<g ref="char:EOLhyphen"/>tro morara: mas como dias del arbol, dias de mi pueblo, y hechas de ſus manos, envejeceran mis eſcogidos.</hi> Zach. 8.5. <hi>Asſi dixo .A. Sebaot, aun eſtaran viejos y viejas en plaças de Ieruſalaim, y cada uno ſu aſufren<g ref="char:EOLhyphen"/>cia en ſu mano, de muchedumbre de dias, y plaças de la ciudad, ſeran llenas de ninos y nin<g ref="char:cmbAbbrStroke">̄</g>as, trebejantes en ſus plaças.</hi> Iehaz 28.26. <hi>Y eſtaran ſobre ella a fiuzia, y fraguara<g ref="char:cmbAbbrStroke">̄</g> caſas y plantaran vinas, y eſtaran a fiuzia en mi hazer Juizios en todos los preantes a ellos, de ſus derredores, y ſabran, que yo .A. ſu Dio.</hi> Lo miſmo dize Micha cap. 4.4. Jerem. 31. Zech. 10.6. y 12.6.</p>
+            <p>Conforme eſtos verſos, y otros muchos equiva<g ref="char:EOLhyphen"/>lentes textos, que trahe la ſagrada Eſcritura, mue<g ref="char:EOLhyphen"/>ſtra, que otra ves an de abitar ſus tierras; y es prova<g ref="char:EOLhyphen"/>ble, que eſto no eſtà cumplido: por que depues de ſu buelta de Babilonia, ſabemos como ſus tierras eſtuvieron deſſoladas, por la perſeguicio<g ref="char:cmbAbbrStroke">̄</g> de las ene<g ref="char:EOLhyphen"/>migas naciones, co<g ref="char:cmbAbbrStroke">̄</g>forme vemos haſta el dia de oy.</p>
+            <p>Aſſi miſmo difficultan, como en muchos lu<g ref="char:EOLhyphen"/>gares ſe haze menſion, de como David ſera ſu Rey para ſiempre, el qual fue un ſignificato de Chriſto, con que acrecientan, el venidero eſtado de los ſan<g ref="char:EOLhyphen"/>tos enel Cielo: la reſpueſta es, q<g ref="char:cmbAbbrStroke">̄</g> ſupueſto eſta me<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ſion, que ſe haze de que David ſera ſu principe pa<g ref="char:EOLhyphen"/>ra ſiempre, y la habitacion de ſu tierra para ſiem<g ref="char:EOLhyphen"/>pre, no ſe concluye, que por eſtos lugares ſe ave<g ref="char:EOLhyphen"/>rigue
+<pb n="6" facs="tcp:94249:6"/>
+el eſtado de los ſantos enel Cielo: por quan<g ref="char:EOLhyphen"/>to dize Jerem. 30.21. <hi>Y ſera ſu fuerte del, y ſu podes tador, de entre el ſaldra, y harlohe allegar, y allegar<g ref="char:EOLhyphen"/>ſea a my:</hi> conocemos que eſta prophecia fue deſ<g ref="char:EOLhyphen"/>pues del tiempo de David: por lo qual como eſte futuro Reyno ſera inſtituido, es ſolo reſervado a Dios, lo que el revelarà a ſu tiempo.</p>
+            <p>Eſtà claramente provado en otros lugares, de <abbr>q</abbr> ellos goſaran ſu honra ſobre la tierra, y a los ojos de las gentes, ſus oprimidores que eſta es la bendicion (Iehaz. 28.25.) que goſaran con libertad los hijos de Iſrael, por que conforme dize Ierem. 31.36. <hi>Si ſe tiraran los eſtatutos eſtos delante de mi, dicho de .A., tambien ſimiente de Iſrael ceſſaran de ſer gente delante de mi todos los dias.</hi>
+            </p>
+            <p>Aſſi que las pruevas de la continuacion de ſer pueblo, teſtifica el eſtado terreno, con lo que Dios les quiſiere a creſentar de gloria y privilegios.</p>
+            <p>Los comentadores tienen en eſto differentes o<g ref="char:EOLhyphen"/>piniones, y difieren entre ellos: empero no obſtan<g ref="char:EOLhyphen"/>te lo que dizen, me parece no queda lugar de for<g ref="char:EOLhyphen"/>çar eſtas prophecias, al entendimiento eſpiritual, ſalvo ſe quiſieren reprovar la verdad de Dios, y la Eſcritura.</p>
+            <p>Deſuerte que ſiendo eſto deſta manera, eſtamos tan remotos del ſanto Zelo, <abbr>q</abbr> devemos a eſte pue<g ref="char:EOLhyphen"/>blo de Dios, ſiendo aſſi que las gentes traheran los preciados y queridos Judios e<g ref="char:cmbAbbrStroke">̄</g> ſus braços y a ſus hi<g ref="char:EOLhyphen"/>jas ſobre ſus eſpaldas. (Ieſa. 49.22.23.) <hi>Y ſeran Reyes tus ayos, y ſus ſen<g ref="char:cmbAbbrStroke">̄</g>oras tus alechaderas.</hi> La crueldad de los hombres, e<g ref="char:cmbAbbrStroke">̄</g> todas las tierras del mu<g ref="char:cmbAbbrStroke">̄</g>do, ha ſido en todo eſtremo riguroſa contra los Judios: empero no nos devemos maravillar de los Barbaros infieles, quando robandoles, hinchen las manos de ſu ſan<g ref="char:EOLhyphen"/>gre, como de aquellos que entienden profeſſan mas la verdad de Dios, (ſu pueſto que falſo) quiero dezir de los de Eſpan<g ref="char:cmbAbbrStroke">̄</g>a, que enel an<g ref="char:cmbAbbrStroke">̄</g>o de 1493. ban<g ref="char:EOLhyphen"/>dieron de ella 120000. Judios: en Italia y otras mu<g ref="char:EOLhyphen"/>chas
+<pb facs="tcp:94249:7"/>
+partes an ſufrido otras muchas crueldad es; empero yo eſpero mejor correſpondencia, en los de nueſtra nacion, y que quando (por la miſericor<g ref="char:EOLhyphen"/>dia de Dios) nueſtros trabajos cercanos, fueren a<g ref="char:EOLhyphen"/>cabados, que oy ay muchos invictos y famoſos ho<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>bres en armas y otros muchos, que pueden ſer in<g ref="char:EOLhyphen"/>ſtrumento para el caſtiguo de los enemigos de Dios, y de ſu pueblo. El poder de Dios es grande, quien lo podrà ſujetar? y como ſiempre obra por medios, quien ſabe, ſi aqueſtos que oy eſtan en armas, vendran a alcanſar eſta gloria, en eſto de las obras de Dios. Y ciertamente ſe podia deſear, <abbr>q</abbr> nos otros quiſieſſemos luchar con Dios con nue<g ref="char:EOLhyphen"/>ſtras oraciones, a fin de que eſte diſignio y buena intencion, ſe pueda conſeguir para gloria de Dios, y de ſu pueblo; y que nueſtras armas, ſoſſegadas a<g ref="char:EOLhyphen"/>qui, ſe empleaſſen contra los crueles oprimidores de ſu pueblo, de quien con tanta tirania y con tan poca miſericordia riguroſamente ſo<g ref="char:cmbAbbrStroke">̄</g> atormentados adonde quiera que eſtan: quitandoles la vida, y a<g ref="char:EOLhyphen"/>quello con que ella ſe ſuſtenta. Y ſi merecieremos eſta gloria, mereceremos de goſarde aquel tiempo en que nueſtras eſpadas ſeran trocadas en arados, enel tiempo que no avera nacion que levante ar<g ref="char:EOLhyphen"/>mas contra nacion, <hi>Y no enſenaran mas pelea.</hi> Jeſah. 2.4. Yo eſpero que Dios encaminarà todos nue<g ref="char:EOLhyphen"/>ſtros inſtrumentos, para que ſe venga alcanſar el fin deſta grande libertad, que con juſtedad, y cami<g ref="char:EOLhyphen"/>no recto ſeran apan<g ref="char:cmbAbbrStroke">̄</g>ados de adonde quiera <abbr>q</abbr> eſtan, y Dios coronara, las obras que ſon hechas con buen fundamento.</p>
+            <p>Quando Selomò fabricò el Templo en Jeruſa<g ref="char:EOLhyphen"/>laim, le fue mandado que ſu madera y piedra fueſſe compueſta enel Lebanon, y que no ſe oyeſſe e<g ref="char:EOLhyphen"/>ſtruendo del pico, en levantarſe aquella glorioſa caſa, para el ſervicio del Sen<g ref="char:cmbAbbrStroke">̄</g>or, y gloria de ſu pue<g ref="char:EOLhyphen"/>blo; a que podremos pues atribuir nueſtras barajas y derramamiento de ſangre, ſino a lo que obſervò
+<pb n="7" facs="tcp:94249:7"/>
+un famoſo y religioſo predicador ya muerto, que dezia, buſcava Dios con ſu poder, el medio y ca<g ref="char:EOLhyphen"/>mino para que ſu obratuvieſe efecto. Puede pues venir eſto a ſer, aquel eſtruendo del Lebanon que avemos oydo. Demanera que bien ſe alcan<g ref="char:EOLhyphen"/>ça la obligacion, que tienen todos los ſiervos de Dios, de preparar para con el ſu coraçon, de tal manera, que quando viniere con aquel fuego de refin ador, y xabon del batan, puedan eſtos inſtru<g ref="char:EOLhyphen"/>mentos ſer levantados en ſu ſervicio, y que ningun otro pueda ſuperar contra ellos. Y aunque ſomos ſujeſtos a muchas faltas haſta el mejor, con todo devemos por obligacion procurar de adquerir la perfeccion. Y ſupueſto que levanto eſte pueblo co<g ref="char:cmbAbbrStroke">̄</g> tanto honor, que al parecer de ſus ignorantes ene<g ref="char:EOLhyphen"/>migos, parecera coſa ridicula, con todo no dexa<g ref="char:EOLhyphen"/>rè de dezir, como ellos ſon de la mas alta y noble decendencia enel mundo, no teniendo compara<g ref="char:EOLhyphen"/>cion con ninguna gente de la tierra, cuya nobleza fue recebida de Dios miſmo, y nos da la razon, juſta y verdadera, dizie<g ref="char:cmbAbbrStroke">̄</g>do, <abbr>q</abbr> no por algo <abbr>q</abbr> hallaſſe enellos, ni por ſu multitud los eligio, ſalvo por auer pueſto ſu amor ſobre ellos. Deut. 7.7. Por lo qual ſi los que ſon favorecidos de los Reyes, ſon adu<g ref="char:EOLhyphen"/>lados y venerados de todos, con quanta mas razon devemos aventajarnos, en amor y buena voluntad con los hijos de Iſrael, de lo que los otros tienen.</p>
+            <p>Dios confirmò ſu promeſſa hecha a Abraham, Iſhac, y Iacob, deſcendientes de Sem, de aquella eſtimada eſtirpe y eſcogida: los protentos y mila<g ref="char:EOLhyphen"/>gros que hizo en ſu libertad de Egipto, fuero<g ref="char:cmbAbbrStroke">̄</g> mu<g ref="char:EOLhyphen"/>chos, y ſobre todo honrandolos con ſu preſencia, y ſiendo ſu miſma guia, de noche con pilar de fuego, y de dia con pilar de nube.</p>
+            <p>Que razon tienen pues los principes del mundo, para la jactancia de ſu nobleza, ſiendo aſſi que los Judios fueron el pueblo eſcogido, yamado de Dios, y deſcendientes de los mas juſtos, y rectos enel te<g ref="char:EOLhyphen"/>mor
+<pb facs="tcp:94249:8"/>
+de Dios, mas que ninguna otra nacion, y fue<g ref="char:EOLhyphen"/>ron contados y tenidos por principes, y prophetas en ſus tiempos, y en los Reyes de Ieudah, ſe halla<g ref="char:EOLhyphen"/>ron mas rectos y religioſos principes, que en nin<g ref="char:EOLhyphen"/>gun Reyno, o nacion avemos leïdo. Eſta es pues la nobleza que yo alabo y levanto, y ſolamente con<g ref="char:EOLhyphen"/>fieſſo por verdadera, pues tiene ſu prueva de con el Sen<g ref="char:cmbAbbrStroke">̄</g>or. Empero los principes dela gentilidad, tienen el principio de ſu grandeza, alcanſada por las ar<g ref="char:EOLhyphen"/>mas, tiranias y eſtratagemas, como agora los Tur<g ref="char:EOLhyphen"/>cos, y los Romanos, y aun otros muchos, en tiempos paſſados. Luego, ni ellos, ni otros mas li<g ref="char:EOLhyphen"/>gitimos principes, que prueva pueden tener en conparacion de los Judios? Que ocaſion tienen lue<g ref="char:EOLhyphen"/>go, o que pretencion de los bienes que Dios repar<g ref="char:EOLhyphen"/>tio con ellos; que ſupueſto tienen caydo enel grave pecado dela ingratitud, de los bienes favores y ben<g ref="char:EOLhyphen"/>diciones, que de Dios tienen recebido, y otras gra<g ref="char:EOLhyphen"/>ves culpas, con todo Dios que es el Sen<g ref="char:cmbAbbrStroke">̄</g>or ſobre to<g ref="char:EOLhyphen"/>do, y contra quien ellos cometian ſus pecados, ſe los perdonarà: por que ſu palabra no puede faltar, como dize por el Propheta Jeſah. 40.1.2. <hi>Que ſe cumplio ſu tiempo, que ſe atemo ſu delito, que tomo de mano de .A. doblado ſobre todos ſus pecados.</hi>
+            </p>
+            <p>Por que luego los principes y ſus nobles inferio<g ref="char:EOLhyphen"/>res en ſangre y calidad, y no comparables a Abra<g ref="char:EOLhyphen"/>ham y David, y por el conſiguiente el Papa y Car<g ref="char:EOLhyphen"/>denales con ſus miniſtros (que ſon levantados de nada, y tienen engan<g ref="char:cmbAbbrStroke">̄</g>ado y uſurpado a todo el mun<g ref="char:EOLhyphen"/>do) levantan los ojos a los Judios para eſſecutar la dureza de ſus coraçones contra eſte noble pueblo? del qual eſtà anunſiado por Dios, que dellos te<g ref="char:cmbAbbrStroke">̄</g>bla<g ref="char:EOLhyphen"/>ran y tendran miedo, aquellos de quien ellos fue<g ref="char:EOLhyphen"/>ron ſiervos.</p>
+            <p>Yo conoſco que los que mas an de repugnar eſta Apologia por los Judios, ſera el Papa con ſus alle<g ref="char:EOLhyphen"/>gados, y ſobre todos los Jeſuitas ſus principales mi<g ref="char:EOLhyphen"/>niſtros: por que de mas del odio quele tiene<g ref="char:cmbAbbrStroke">̄</g>, mue<g ref="char:EOLhyphen"/>ſtra
+<pb n="8" facs="tcp:94249:8"/>
+eſto el poco fundamiento de la papiſteria, en la qual no es poco de maravillar, de las crueldades <abbr>q</abbr> con el pueblo de Dios uſan, y quanto los aborecen.</p>
+            <p>En Italia a donde les es concedido algu<g ref="char:cmbAbbrStroke">̄</g> comer<g ref="char:EOLhyphen"/>cio con los Italianos, (aunque ſolamente por ſu provecho) los hazen differentes por todas las vias que pueden, trayendo ſen<g ref="char:cmbAbbrStroke">̄</g>ales, fuera de la coſ<g ref="char:EOLhyphen"/>ſtumbre de las otras gentes, en tanto que ſe tiene por deshonra, el traer ſombrero colorado co<g ref="char:cmbAbbrStroke">̄</g> miedo de ſer contados por Judios, de quien los papiſtas ſe mueſtran principalmente offendidos, por ocaſion que ſon dellos deſpreciados ſus y dolos, y idolatria, que de ellos es tan venerada; pero quien toca en e<g ref="char:EOLhyphen"/>ſto, toca en la piedra fundamental de ſu policia.</p>
+            <p>Los teatynos hazen ſu nido en todas las partes, y proſperan grandemente, y por ocaſſion deſus agu<g ref="char:EOLhyphen"/>dos conſejos, tienen alcanſado parte en todos eſta<g ref="char:EOLhyphen"/>dos. Sus univerſidades ſon por eſtremo aduladas, y juegan ſienpre a ſu diſcricion. Si quieren hazer ar<g ref="char:EOLhyphen"/>madas, ocupan gra<g ref="char:cmbAbbrStroke">̄</g>des ciudades tierras y propieda<g ref="char:EOLhyphen"/>des de calidad. Emplean ſienpre los espiritus mas a<g ref="char:EOLhyphen"/>gudos que ay entre ellos, y a todo hazen: aprove<g ref="char:EOLhyphen"/>chandoſe de toda profeccion: por cuyo medio que<g ref="char:EOLhyphen"/>dan ſus intenciones menos conocidas. Tal vez ſon cavalleros, depues religioſos, otra vez medicos, y haſta ſoldados. Puedeſſe deſear co<g ref="char:cmbAbbrStroke">̄</g> todo coraçon ſe conſiga loque yo eſpero, que ſus cantos de Sirenas no encantaran los oydos de aquellos que conoci<g ref="char:EOLhyphen"/>eren a Dios, aunque proſigan con ſus hipocritas y carnales policias.</p>
+            <p>Humildemente ofreſco eſta Apologia con ſus conſideraciones a todo el Reyno de Ingalatierra de<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>de el gra<g ref="char:cmbAbbrStroke">̄</g>de haſta el pequen<g ref="char:cmbAbbrStroke">̄</g>o: y pido <abbr>q</abbr> aſſi como la<g ref="char:EOLhyphen"/>bendicio<g ref="char:cmbAbbrStroke">̄</g> de Dios à poſado ſobre eſte Reyno, mas <abbr>q</abbr> en muchos otros, principalmente que ha ſido qua<g ref="char:EOLhyphen"/>ſi cien an<g ref="char:cmbAbbrStroke">̄</g>os el principal pilar de la verdadera de<g ref="char:EOLhyphen"/>ffenſa y ſalua guarda para los afligidos dela Europa; aſſi agora moſtremos compacion, y demos la
+<pb facs="tcp:94249:9"/>
+ayuda devida a los afligidos Judios, procurando, <abbr>q</abbr> la autoridad, con que de contino ſon moleſtados, ſea en favor ſuyo, derrocando las leyes y decretos que ay contra ellos: para que el recebillos otra vez, dandole la poſſible ſatisfacion, y libertad del co<g ref="char:EOLhyphen"/>mercio en eſte Reyno, ſirva de exemplo a las otras naciones, de quien fueron y ſon moleſtados, haſta tanto que Dios recoja el numero de ſus lagrimas, y entonces tomara la vengança (de ſus trabajos) de nos otros<g ref="char:punc">▪</g> y ſatisfacion de ſus perſigiciones.</p>
+            <p>Lo que tengo eſcrito, no ha fido a pedimiento de ninguno de la nacion de los Judios, ſolo mo<g ref="char:EOLhyphen"/>ſtrar lo que à tanto tiempo tengo en mi coraçon, y ſobre todo es mi intencion, fundada en la gloria de Dios, el que es el conſolador deſte ſu pueblo afli<g ref="char:EOLhyphen"/>gido, y luego el amor que tengo a mi dulce patria de Inglatierra, y la libertad de mi alma enel poſtre<g ref="char:EOLhyphen"/>ro dia. Eſta es la obligacion que tengo en publicar lo que tanto importa, pidiendo con mis oraciones, que en eſtas partes poderoſas, no continuen en di<g ref="char:EOLhyphen"/>viſion: deſechando los conſejos carnales, y no pre<g ref="char:EOLhyphen"/>tender honras, ni oſtentaciones, antes confeſſar los unos a los otros, ſus faltas; governandoſe con amor, y humildad delante .A. con que alcanſare<g ref="char:EOLhyphen"/>mos la remicion de nueſtros pecados y miſerias, y la bendicion del Sen<g ref="char:cmbAbbrStroke">̄</g>or, que decenderà ſobre nos, que el grande Dios, por ſu miſericordia nos con<g ref="char:EOLhyphen"/>ceda.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:94249:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
